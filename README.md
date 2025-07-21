@@ -1,6 +1,6 @@
 # Kiz-Basina-Proje-2
 
-#  Power BI Analiz Raporu 📊
+#  Power BI Analiz Raporu 
 
 Bu proje, Kız Başına Bootcamp final sunumu kapsamında hazırlanmış Power BI çalışmasıdır.  
 İstanbul’daki genç müşteri kitlesi için görselleştirme, segmentasyon ve KPI takibi yapılmıştır.
